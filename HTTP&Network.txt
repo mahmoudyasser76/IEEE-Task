@@ -1,0 +1,9 @@
+- the server is the system that host the YouTube website, it response to the request by sending the content of YouTube page
+
+- the client is the web browser, it is responsible for sending the HTTP request and receiving the response
+
+- End-user is the person who accessing YouTube through the browser
+
+
+
+- the HTTP method is GET and the status code will be 200 OK

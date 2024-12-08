@@ -1,0 +1,2 @@
+SELECT name, phone, email FROM People
+WHERE age >= 22;
